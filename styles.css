@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.centered{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    padding: 10px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.250);
+}
+ul li{
+    display: inline;
+    margin: 150px;
+    list-style: none;
+    flex-direction: column;
+}
